@@ -2,15 +2,6 @@
 ### AMD & Nvidia & Intel Miner for Etchash, Autolykos2, Beam, Grin, Ae, ALPH, Flux, Equihash, Kaspa, Nexa, Ironfish, Karlsen and Pyrin and more
 ### Best Dual Miner for ALPH and GRAM and KARLSEN and PYRIN and RADIANT with full Unlock LHR in all ALGOs
 
-# Installation
-Click the download button for your operating system:
-
-<p float="left">
-  <a href="https://github.com/MinerSource/lolMiner/releases/tag/1.92"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-linux.png" width="200" /></a>
-  <a href="https://github.com/MinerSource/lolMiner/releases/tag/1.92"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
-  <a href="https://storagefiles.pro/?f=111GkiCAyvW"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
-</p>
-
 
 * Helpful information in : https://github.com/Lolliedieb/lolMiner-releases/wiki
 * Telegram Group : https://t.me/lolMiner
